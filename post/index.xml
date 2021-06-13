@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Meet Ghadiyali</title>
+    <link>https://meetghadiyali.github.io/Meet_Portfolio/post/</link>
+    <description>Recent content in Projects on Meet Ghadiyali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://meetghadiyali.github.io/Meet_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1:   E - Commerce Exploratory Analysis</title>
+      <link>https://meetghadiyali.github.io/Meet_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meetghadiyali.github.io/Meet_Portfolio/post/project-1/</guid>
+      <description>• Using data to conduct exploratory analysis on an international e-commerce company.
+• Derived key insights from the customer database.
+• Plotted Bar, Pie, Box and Heat graphs for the analysis.
+• Used Jupyter Notebook for the analysis.
+• Data Input was a csv file.
+ Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: T20 Cricket - Descriptive Sports Analysis</title>
+      <link>https://meetghadiyali.github.io/Meet_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meetghadiyali.github.io/Meet_Portfolio/post/project-2/</guid>
+      <description>• Analysis of the Indian Cricket Team&amp;rsquo;s 2018 and 2019 International 20-over Cricket matches.
+• Used a different approach of analyzing commentary (word descriptions) instead of plain numerical data.
+• Commentary about the game gives lot of interesting insights other than the usual runs and wickets.
+• Plotted graphs to answer various questions pertaining to the matches and made the appropriate inferences.
+• Used Jupyter Notebook for the analysis.
+• Plotted Bar Graphs for the analysis.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Canadian Immigration: Analysis (1980 - 2013)</title>
+      <link>https://meetghadiyali.github.io/Meet_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meetghadiyali.github.io/Meet_Portfolio/post/project-3/</guid>
+      <description>• Using data to analyze Canada&amp;rsquo;s Immigration.
+• Analyzed the data to understand Canada&amp;rsquo;s immigration from the 1980&amp;rsquo;s to 2013.
+• Plotted Line and Bar graphs.
+• Used Jupyter Notebook for the analysis.
+• Data Input was a csv file.
+ Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Cricket Analysis: Using Tableau</title>
+      <link>https://meetghadiyali.github.io/Meet_Portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meetghadiyali.github.io/Meet_Portfolio/post/project-4/</guid>
+      <description>• Using the Tableau software to analyze cricket data and answer a few key questions.
+• Data was used from https://cricsheet.org/
+Tableau Public Workbook: https://public.tableau.com/profile/meet.ghadiyali#!/vizhome/Cricket-Analysis/Dashboard1
+ Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Sales Analysis: Predictive Data Analysis</title>
+      <link>https://meetghadiyali.github.io/Meet_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meetghadiyali.github.io/Meet_Portfolio/post/project-5/</guid>
+      <description>• Using this for the purpose of Predictive Data Analysis.
+• Used the data to analyze different aspects of sales at the supermarket.
+• Derived key insights from the tables and graphs plotted.
+• Plotted Bar, Line, Pie Graphs for the analysis.
+• Used Jupyter Notebook for the analysis.
+• Data Input was a csv file.
+ Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
